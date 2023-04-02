@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "290159250494",
+    "project_id": "login-practico2",
+    "storage_bucket": "login-practico2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290159250494:android:87c19e93d01c46184f556f",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290159250494-rethnqqphjm312b1kd5h6tatqrd5v5p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzUnFRQrmsJzZdNS_eU82xI2i31yG-7nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290159250494-rethnqqphjm312b1kd5h6tatqrd5v5p0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
